@@ -39,7 +39,8 @@ output
 <img width="833" height="705" alt="Screenshot 2025-11-24 155059" src="https://github.com/user-attachments/assets/466167cb-73ce-4845-ae53-2faa2e61cb04" />
 <img width="532" height="654" alt="Screenshot 2025-11-24 155126" src="https://github.com/user-attachments/assets/44cbc211-77d3-40ef-ab44-2dc4d152f107" /> 
 
-
+the dataset used to train this model has been taken from kaggle.
+https://www.kaggle.com/datasets/abdelazizsami/oasis-longitudinal?select=oasis_longitudinal.csv
 
 
 
